@@ -22,11 +22,11 @@ TrailerBot is a Telegram bot that:
 
 ---
 
-## 📸 Preview
+## HEHE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/digin-portfolio/trailer/main/preview1.jpeg" width="260"/>
-  <img src="https://i.imgur.com/j6rYh0R.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/digin-portfolio/trailer/main/preview2.jpeg" width="260"/>
 </p>
 
 ---
